@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: loveTheresia的个人博客
+subtitle: 一切过往，皆为序章
+description: 'C++后端开发部分学习资料，皆是思维导图免费使用，逻辑清晰，建议用xmind打开'
+keywords: 'C++,思维导图'
+author: loveTheresia
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -101,4 +101,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/loveTheresia/loveTheresia.github.io.git
+  branch: main
