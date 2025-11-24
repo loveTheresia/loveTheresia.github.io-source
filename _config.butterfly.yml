@@ -64,15 +64,15 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
-  effect: false
+  img: /source/image/wechat.jpg
+  effect: true
 
 # Disable all banner images
-disable_top_img: false
+disable_top_img: https://cdn.jsdelivr.net/gh/loveTheresia/loveTheresia.github.io-source/source/image/background01.jpg
 
 # If the banner of page not setting, it will show the default_top_img
 default_top_img:
-
+  
 # The banner image of index page
 index_img:
 
@@ -156,7 +156,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -169,7 +169,10 @@ subtitle:
   # 1 - hitokoto.cn
   # 2 - https://api.aa1.cn/doc/yiyan.html
   # 3 - jinrishici.com
-  source: false
+  source: 
+    - "C++后端开发部分学习资料"
+    - "无限进步！"
+    - "感谢你的访问！"
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
 
@@ -235,7 +238,7 @@ post_edit:
 
 # Related Articles
 related_post:
-  enable: true
+  enable: false
   # Number of posts displayed
   limit: 6
   # Choose: created / updated
@@ -291,15 +294,15 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: 在校学生、二次元爱好者、C++码农
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: github
+      link: https://github.com/loveTheresia
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Welcome to techoy's blog
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -763,12 +766,12 @@ site_verification:
 # Notice: color value must in double quotes like "#000" or may cause error!
 
 theme_color:
-  enable: true
-  main: "#49B1F5"
-  paginator: "#00c4b6"
-  button_hover: "#FF7242"
-  text_selection: "#00c4b6"
-  link_color: "#99a9bf"
+  main: "#00D4FF"        # 科技蓝
+  paginator: "#00F0FF"    # 亮蓝
+  button_hover: "#FF6B35" # 橙色点缀
+  text_selection: "#00A8FF"
+  link_color: "#00B4D8"
+  background: "#0A0A0A"   # 深黑背景
   meta_color: "#858585"
   hr_color: "#A4D8FA"
   code_foreground: "#F47466"
