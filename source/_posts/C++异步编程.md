@@ -5,7 +5,7 @@ tags: [C++,代码]
 top: 5
 ---
 ####    为提升应用性能与响应性，C++异步编程是必备技能。相关头文件：<future>与<thread>提供异步执行基础，<mutex>与<condition_variable>负责线程同步
-![C++异步编程](https://cdn.jsdelivr.net/gh/loveTheresia/loveTheresia.github.io-source@2025.11/source/image/%E5%AE%8F.png)
+![C++异步编程](https://cdn.jsdelivr.net/gh/loveTheresia/loveTheresia.github.io-source@2025.11/source/image/C++异步编程.png)
 
-文件地址：
-https://github.com/loveTheresia/loveTheresia.github.io/blob/f66f4c054ae2fcd2eb6788f50135526806e32d56/xmind/C%2B%2B%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.xmind
+### 点击获取思维导图：[C++异步编程](https://cdn.jsdelivr.net/gh/loveTheresia/loveTheresia.github.io-source/xmind/C++异步编程.xmind)
+

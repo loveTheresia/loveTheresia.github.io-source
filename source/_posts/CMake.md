@@ -18,6 +18,7 @@ top: 100
 2、每个项目使用一个CMakeLists.txt（每个目录一个），使用的是cmake语法。
 3、cmake跟已有体系配合不是特别的理想，比如pkgconfig。
 
-![CMake](https://cdn.jsdelivr.net/gh/loveTheresia/loveTheresia.github.io-source@2025.11/source/image/%E5%AE%8F.png)
-文件地址：
-https://github.com/loveTheresia/loveTheresia.github.io/blob/f66f4c054ae2fcd2eb6788f50135526806e32d56/xmind/CMake.xmind
+![CMake](https://cdn.jsdelivr.net/gh/loveTheresia/loveTheresia.github.io-source@2025.11/source/image/CMake.png)
+
+### 点击获取思维导图：[CMake](https://cdn.jsdelivr.net/gh/loveTheresia/loveTheresia.github.io-source/xmind/CMake.xmind)
+
