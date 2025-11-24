@@ -38,8 +38,8 @@ title: techoy的个人博客
 subtitle: 一切过往，皆为序章
 description: 'C++后端开发部分学习资料，皆是思维导图免费使用，逻辑清晰，建议用xmind打开'
 keywords: 'C++,思维导图'
-author: loveTheresia
-language: en
+author: techoy
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -127,7 +127,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: mints
+theme: minos
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
